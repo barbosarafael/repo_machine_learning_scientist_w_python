@@ -1,2 +1,4 @@
-# repo_machine_learning_scientist_w_python
-Repositório de exercícios e aprendizados do track do Datacamp.
+# Repositório do curso de Machine Learning Scientist with Python - Datacamp
+
+
+Aqui terão materiais e exercícios (espero que resolvidos) do presente track do Datacamp. 
